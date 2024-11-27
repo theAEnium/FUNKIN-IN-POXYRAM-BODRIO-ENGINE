@@ -1,0 +1,11 @@
+{
+  "name": "BrewScript",
+  "license": "Apache",
+  "description": "",
+  "version": "6.1.80",
+  "classPath": "src/",
+  "releasenote": "NOT AVAILABLE",
+  "contributors": ["pkkpkk"],
+  "dependencies": {
+  }
+}
